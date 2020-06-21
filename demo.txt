@@ -1,3 +1,3 @@
-Hello acuerdoskilling!
-Hello from PyCharm!
-Sivasundaramoorthy adding 3rd line // 20200621
+Hello acuerdoskilling!      # this record was created when the file was first created in git bash and pushed to this repository
+Hello from PyCharm!         # this record was created in pycharm after setting up the github integration and cloning the repo
+Sivasundar added 3rd line   # this record was created in github by 2nd user "Sivasundaramoorthy" by forking and creating pull request
